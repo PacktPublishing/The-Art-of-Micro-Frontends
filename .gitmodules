@@ -1,45 +1,45 @@
 [submodule "05-pipeline"]
-	path = 05-pipeline
+	path = Chapter05/05-pipeline
 	url = https://github.com/ArtOfMicrofrontends/05-pipeline.git
 [submodule "05-server-discover"]
-	path = 05-server-discover
+	path = Chapter05/05-server-discover
 	url = https://github.com/ArtOfMicrofrontends/05-server-discover.git
 [submodule "06-web-approach"]
-	path = 06-web-approach
+	path = Chapter06/06-web-approach
 	url = https://github.com/ArtOfMicrofrontends/06-web-approach.git
 [submodule "07-blue"]
-	path = 07-blue
+	path = Chapter07/07-blue
 	url = https://github.com/ArtOfMicrofrontends/07-blue.git
 [submodule "07-gateway"]
-	path = 07-gateway
+	path = Chapter07/07-gateway
 	url = https://github.com/ArtOfMicrofrontends/07-gateway.git
 [submodule "07-green"]
-	path = 07-green
+	path = Chapter07/07-green
 	url = https://github.com/ArtOfMicrofrontends/07-green.git
 [submodule "07-red"]
-	path = 07-red
+	path = Chapter07/07-red
 	url = https://github.com/ArtOfMicrofrontends/07-red.git
 [submodule "08-edge-side-composition"]
-	path = 08-edge-side-composition
+	path = Chapter08/08-edge-side-composition
 	url = https://github.com/ArtOfMicrofrontends/08-edge-side-composition.git
 [submodule "09-client-side-composition"]
-	path = 09-client-side-composition
+	path = Chapter09/09-client-side-composition
 	url = https://github.com/ArtOfMicrofrontends/09-client-side-composition.git
 [submodule "10-spa-composition"]
-	path = 10-spa-composition
+	path = Chapter10/10-spa-composition
 	url = https://github.com/ArtOfMicrofrontends/10-spa-composition.git
 [submodule "11-app-shell"]
-	path = 11-app-shell
+	path = Chapter11/11-app-shell
 	url = https://github.com/ArtOfMicrofrontends/11-app-shell.git
 [submodule "11-frontend-tax"]
-	path = 11-frontend-tax
+	path = Chapter11/11-frontend-tax
 	url = https://github.com/ArtOfMicrofrontends/11-frontend-tax.git
 [submodule "11-frontend-settings"]
-	path = 11-frontend-settings
+	path = Chapter11/11-frontend-settings
 	url = https://github.com/ArtOfMicrofrontends/11-frontend-settings.git
 [submodule "11-frontend-balance"]
-	path = 11-frontend-balance
+	path = Chapter11/11-frontend-balance
 	url = https://github.com/ArtOfMicrofrontends/11-frontend-balance.git
 [submodule "11-service-feed"]
-	path = 11-service-feed
+	path = Chapter11/11-service-feed
 	url = https://github.com/ArtOfMicrofrontends/11-service-feed.git

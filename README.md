@@ -12,6 +12,16 @@ This repository contains all repositories with sample codes. These repositories 
 git clone --recurse-submodules https://github.com/PacktPublishing/The-Art-of-Microfrontends.git
 ```
 
+## Updating the Repository
+
+Once the submodules are checked out the code is stuck at this point in time. Therefore, just like the repository itself, the submodules need to be pulled.
+
+To do everything in a single command you can just use `--recurse-submodules` with `git pull`:
+
+```sh
+git pull --recurse-submodules
+```
+
 ## Using the Code
 
 Each directory containing a sample repository has a README file with instructions on what is necessary and how to run the code.
