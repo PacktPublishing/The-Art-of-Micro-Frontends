@@ -37,24 +37,24 @@ If you'll encounter any problem or have some improvement in mind then don't hesi
 ## Available Samples
 
 * Chapter 5 - Types of Microfrontends
-  * [Direct build integration](./05-pipeline)
-  * [Looser coupling via lookup table](./05-server-discover)
+  * [Direct build integration](https://github.com/ArtOfMicrofrontends/05-pipeline)
+  * [Looser coupling via lookup table](https://github.com/ArtOfMicrofrontends/05-server-discover)
 * Chapter 6 - The Web Approach
-  * [Pattern example](./06-web-approach)
+  * [Pattern example](https://github.com/ArtOfMicrofrontends/06-web-approach)
 * Chapter 7 - Server-Side Composition
-  * [Gateway to orchstrate MFs](./07-gateway)
-  * [Red MF bringing product page](./07-red)
-  * [Blue MF bringing purchase ability](./07-blue)
-  * [Green MF bringing recommendations](./07-green)
+  * [Gateway to orchstrate MFs](https://github.com/ArtOfMicrofrontends/07-gateway)
+  * [Red MF bringing product page](https://github.com/ArtOfMicrofrontends/07-red)
+  * [Blue MF bringing purchase ability](https://github.com/ArtOfMicrofrontends/07-blue)
+  * [Green MF bringing recommendations](https://github.com/ArtOfMicrofrontends/07-green)
 * Chapter 8 - Edge-Side Composition
-  * [Pattern example](./08-edge-side-composition)
+  * [Pattern example](https://github.com/ArtOfMicrofrontends/08-edge-side-composition)
 * Chapter 9 - Client-Side Compositionv
-  * [Pattern example](./09-client-side-composition)
+  * [Pattern example](https://github.com/ArtOfMicrofrontends/09-client-side-composition)
 * Chapter 10 - SPA Composition
-  * [Pattern example](./10-spa-composition)
+  * [Pattern example](https://github.com/ArtOfMicrofrontends/10-spa-composition)
 * Chapter 11 - Siteless UIs
-  * [App Shell to orchestrate MFs](./11-app-shell)
-  * [Feed server to dynamically provision MFs](./11-service-feed)
-  * [Balance MF bringing the balance sheet](./12-frontend-balance)
-  * [Settings MF bringing the settings dialog](./12-frontend-settings)
-  * [Tax MF offering an extension for the balance sheet](./12-frontend-tax)
+  * [App Shell to orchestrate MFs](https://github.com/ArtOfMicrofrontends/11-app-shell)
+  * [Feed server to dynamically provision MFs](https://github.com/ArtOfMicrofrontends/11-service-feed)
+  * [Balance MF bringing the balance sheet](https://github.com/ArtOfMicrofrontends/11-frontend-balance)
+  * [Settings MF bringing the settings dialog](https://github.com/ArtOfMicrofrontends/11-frontend-settings)
+  * [Tax MF offering an extension for the balance sheet](https://github.com/ArtOfMicrofrontends/11-frontend-tax)
