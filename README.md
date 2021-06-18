@@ -55,7 +55,7 @@ git pull --recurse-submodules
 
 Each directory containing a sample repository has a README file with instructions on what is necessary and how to run the code.
 
-For the samples of chapter 7 (server-side composition) and chapter 11 (siteless UIs) the code has been split across multiple repositories. This was done to illustrate the distributed nature of microfrontends in general, and in particular of the given approaches.
+For the samples of chapter 7 (Server-side composition) and chapter 11 (Siteless UIs) the code has been split across multiple repositories. This was done to illustrate the distributed nature of microfrontends in general, and in particular of the given approaches.
 
 The recommendation here would be to start with the gateway (chapter 7) and app shell (chapter 11) before running the MF repositories. In case of chapter 11 you'll also need to run the feed server.
 
