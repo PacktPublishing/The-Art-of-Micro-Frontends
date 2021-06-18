@@ -99,7 +99,7 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1 to 16      | Node.js 12                     | Windows, Mac OS X, and Linux (Any) |
 | 1 to 16        | NPM 6            | Windows, Mac OS X, and Linux (Any) |
-| 1 to 16        | ECMAScript 2015 (6) +          | Windows, Mac OS X, and Linux (Any) |
+| 1 to 16        | ECMAScript 2015 (6) or above          | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800563568_ColorImages.pdf).
 
