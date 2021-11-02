@@ -109,6 +109,13 @@ Click on the following link to see the Code in Action:
 
 [YouTube](https://www.youtube.com/playlist?list=PLeLcvrwLe185OWoZT0hfN5zesgVangK5M)
 
+<!--
+## Errata
+-->
+<!--
+*Page 160 (Pragraph 3,Line 18): **URL has to monitored** _should be_ **URL has to be monitored**
+-->
+
 ### Related products <Other books you may enjoy>
 * Svelte 3 Up and Running [[Packt]](https://www.packtpub.com/product/svelte-3-up-and-running/9781839213625) [[Amazon]](https://www.amazon.com/dp/1839213620)
 
