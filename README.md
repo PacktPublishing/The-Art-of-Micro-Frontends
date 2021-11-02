@@ -111,7 +111,7 @@ Click on the following link to see the Code in Action:
 
 ## Errata
 
-*Page 160 (Pragraph 3,Line 18): **URL has to monitored** _should be_ **URL has to be monitored**
+* Page 160 (Pragraph 3,Line 18): **URL has to monitored** _should be_ **URL has to be monitored**
 
 
 ### Related products <Other books you may enjoy>
